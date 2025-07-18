@@ -3,7 +3,7 @@
 
 A modern telemedicine web app built with **Next.js**, using **Clerk** for authentication and **Vonage** for secure video calls.  
 
-🌐 Live site: [https://medimeet-swart.vercel.app](https://medimeet-sand.vercel.app/)
+🌐 Live site: [https://medimeet-sand.vercel.app](https://medimeet-sand.vercel.app/)
 
 ---
 
